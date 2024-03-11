@@ -55,7 +55,7 @@ _Feb 15, 2024_
 
   ## Resources
 
-  [1] [Bitcoin: A Peer-to-Peer Electronic Cash System.] </br>
+  [1] [Bitcoin: A Peer-to-Peer Electronic Cash System.](https://bitcoin.org/bitcoin.pdf) </br>
   [2] [Ethereum: A Next-Generation Smart Contract and Decentralized Application Platform.
   By Vitalik Buterin (2014).](https://ethereum.org/content/whitepaper/whitepaper-pdf/Ethereum_Whitepaper_-_Buterin_2014.pdf) </br>
   [3] [The Idea of Smart Contracts](https://nakamotoinstitute.org/the-idea-of-smart-contracts/) </br>
